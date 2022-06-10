@@ -13,7 +13,7 @@ Baseado nesta [publicação](https://www.linkedin.com/feed/update/urn:li:activit
 - [o que é controlled component e uncontrolled component?](#o-que-é-controlled-component-e-uncontrolled-component)
 - [o que são hooks no ReactJS](#o-que-são-hooks-no-reactjs)
 - [o que é JSX](#o-que-é-jsx)
-- [lifecycle no React](#lifecycle-in-react)
+- [lifecycle no React](#lifecycle-no-react)
 
 ### o que é reactJS
 
